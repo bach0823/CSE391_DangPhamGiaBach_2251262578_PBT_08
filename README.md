@@ -14,10 +14,15 @@
 
 **Tài liệu tham chiếu:** `tuan_4_javascript_basics/05_functions.md` + `06_arrays_objects.md`
 
+## Bắt đầu nhanh
+
+Mở **[index.html](./index.html)** — lệnh chạy từng file `.js`.
+
 ## Cấu trúc dự án
 
 ```
 PBT_08/
+├── index.html
 ├── README.md
 ├── answers.md
 ├── product_manager.js      # B1 — Quản lý sản phẩm E-Commerce
@@ -39,13 +44,17 @@ node higher_order.js
 - [x] `product_manager.js` — Bài B1
 - [x] `shopping_cart.js` — Bài B2
 - [x] `higher_order.js` — Bài B3
-- [ ] Folder `screenshots/` — *chưa có*
+- [x] Folder `screenshots/` — hướng dẫn chụp console output
 - [x] Video OBS — [YouTube](https://youtu.be/GWf_xRelVYs)
 - [x] ≥ 4 commits
 
 ## Video thực hành OBS
 
 https://youtu.be/GWf_xRelVYs
+
+## Cải thiện gần đây
+
+- Thêm `index.html`, `screenshots/README.md`
 
 ---
 
